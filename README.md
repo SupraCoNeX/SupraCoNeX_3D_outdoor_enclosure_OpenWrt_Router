@@ -12,8 +12,9 @@ Open-source & open-hardware 3D outdoor/indoor enclosure for OpenWrt routers.
    * support different logos
 
 
-List of supported OpenWrt routers:
- * BananaPi R64 with mt7615, etc.)
+
+*__List of supported OpenWrt routers:__*
+ * BananaPi R64 (with mt7615, etc.)
  * ...
 
 
