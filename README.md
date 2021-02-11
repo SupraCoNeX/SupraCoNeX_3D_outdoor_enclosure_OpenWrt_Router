@@ -1,4 +1,4 @@
-# SupraCoNeX 3D Enclosure for OpenWrt Routers PCBs
+# SupraCoNeX 3D Enclosure for OpenWrt Routers
 
 ## Open-source & open-hardware 3D outdoor/indoor enclosure for OpenWrt routers.
 
