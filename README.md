@@ -41,7 +41,9 @@
 
 *__Pictures of the Enclosure:__*
 
-![image](https://user-images.githubusercontent.com/1880886/107827481-2c872900-6d87-11eb-9f8f-037fb40f5a73.png)
+
+![image](https://user-images.githubusercontent.com/1880886/107828235-b8e61b80-6d88-11eb-8a4b-5d9d58973e1f.png)
+
 
 ![image](https://user-images.githubusercontent.com/1880886/107828117-76bcda00-6d88-11eb-9138-a659dda978c9.png)
 
