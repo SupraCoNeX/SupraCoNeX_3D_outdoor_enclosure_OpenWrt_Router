@@ -26,8 +26,9 @@
 
 *__What are our Enclosure Design Goals:__*
  * DIY printable outdoor enclosure
- * easy mountable on roof top installations
+ * easy mountable on roof top pole installations
  * as srewless as possible
+ * weatherproof for outdoor usage
  * be modular where it's worth:
    * support different router boards and setups -> common board plate API
    * support different cable gland setups for RF and Ethernet
