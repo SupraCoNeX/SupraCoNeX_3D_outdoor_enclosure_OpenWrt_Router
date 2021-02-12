@@ -26,7 +26,7 @@
 
 *__What are our Enclosure Design Goals:__*
  * DIY printable outdoor enclosure
- * easy mountable on roof top pole installations
+ * easy mountable on (a) roof top poles and (b) walls with an adapter board
  * as srewless as possible
  * weatherproof for outdoor usage
  * be modular where it's worth:
