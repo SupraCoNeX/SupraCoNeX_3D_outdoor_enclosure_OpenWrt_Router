@@ -39,6 +39,9 @@
  * BananaPi R64 (with mt7615, etc.)
  * ...
 
+*__Pictures of the Enclosure:__*
+
+![image](https://user-images.githubusercontent.com/1880886/107827481-2c872900-6d87-11eb-9f8f-037fb40f5a73.png)
 
 
 
