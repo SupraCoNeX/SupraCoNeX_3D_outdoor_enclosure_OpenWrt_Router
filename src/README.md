@@ -7,7 +7,7 @@ Prusa Settings
 - top layers: 2
 - outline / walls / contour: 2
 - support for bridges - disabled
-- infill: mesh / grid
+- infill: mesh / grid 20%
 
 Rest: 
 - default for draft-mode
