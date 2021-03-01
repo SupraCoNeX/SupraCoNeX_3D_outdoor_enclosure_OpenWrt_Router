@@ -3,8 +3,9 @@ Prusa Settings
 - draft-mode
 - 0.3
 - supports only on printbed
-- two bottom layers
-- two top layers
+- bottom layers: 2
+- top layers: 2
+- outline / walls / contour: 2
 - support for bridges - disabled
 - infill: mesh / grid
 
